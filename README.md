@@ -1,5 +1,6 @@
 # Complex-Relationship-is-All-You-Need-JTY-SYSU-Software
 记录了中山大学24级研究生江天玥与横跨华北、华中、华西、华南多地，与多位男嘉宾周旋的技术框架和理论总结
+
 摘要—“我可能是第五个，连三都不是”。本研究在为期三年以上实践调查基础上，通过已知多地 985 211 计算机系硕
 博三位男嘉宾男 1, 男 2, 男 3 多源交叉验证与时间线重建，对江天玥（四川农业大学信息与计算学部 2020 级本科生, 中山大学软件学院 24 级研究生）的情感理论与实践进行了为完整的考察。主要发现如下：第一，江天玥自称"母胎
 单身"与男 1 接触进入非正常情感关系，实则自本科早年即与男 2 在隐空间维持多年情感关系，并在和男 3 进入非正
@@ -12,6 +13,7 @@
 选、学校申请、课程辅导及物质层面提供了异步同时程大量投入。综上，本文将对江天玥在基于复杂关系的端到端
 语言信息安全，并行计算，以及多时程、多时空大规模数据处理三个主要领域做出的卓越贡献进行总结与讨论。
 关键词：并行计算，信息安全，多时程、多时空大规模数据处理，认知调控，资源调度
+
 Abstract—“I might be the fifth one—not even making the top three.” Building upon a prior year-long field investigation, this
 study employs multi-source triangulation and timeline reconstruction among three known male informants (M1, M2, M3), all
 postgraduate students in computer science at Project 985/211 universities, to present a more complete examination of the
